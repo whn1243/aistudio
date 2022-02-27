@@ -107,9 +107,6 @@ MobileNet系列是谷歌为适配移动终端提供了一系列模型，包含�
 
 ## 五、模型评估
 
-
-<iframe src="//player.bilibili.com/player.html?aid=506886445&bvid=BV1bg411N7eq&cid=447876963&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
 https://www.bilibili.com/video/BV1bg411N7eq?share_source=copy_web
 
 ![](https://ai-studio-static-online.cdn.bcebos.com/93be25b91a214643b95bff01bc686ca7cc93bb9755454366b1cc8554000b64a9)
